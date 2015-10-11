@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+CodeIgniter 简介
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
@@ -11,22 +11,20 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
-Release Information
+版本发布信息
 *******************
 
 This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+latest stable release please visit the `下载 CodeIgniter <http://codeigniter.org.cn/download>`_ page.
 
 **************************
-Changelog and New Features
+变更记录
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+You can find a list of all changes for each release in the `用户手册 - 变更记录 <http://codeigniter.org.cn/user_guide/changelog.html>`_.
 
 *******************
-Server Requirements
+服务器要求
 *******************
 
 PHP version 5.4 or newer is recommended.
@@ -36,33 +34,32 @@ such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
 ************
-Installation
+安装
 ************
 
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+请阅读用户手册的 `安装说明 <http://codeigniter.org.cn/user_guide/installation/index.html>`_ 。
 
-*******
-License
-*******
+***********
+许可协议
+***********
 
 Please see the `license
 agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
-*********
-Resources
-*********
+************
+其他资源
+************
 
--  `User Guide <http://www.codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <http://www.codeigniter.com/irc>`_
+-  `中文手册 <http://codeigniter.org.cn/docs>`_
+-  `中文语言包 <https://github.com/bcit-ci/codeigniter3-translations>`_
+-  `中文论坛 <http://codeigniter.org.cn/forums>`_
+-  `英文 Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
+-  `中文 IRC <http://codeigniter.org.cn/irc>`_
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_, thank you.
+报告安全问题请发邮件到 `安全问题邮箱（英文） <mailto:security@codeigniter.com>`_ 或 `中文支持邮箱 <mailto:support@codeigniter.org.cn>`_，谢谢。
 
 ***************
-Acknowledgement
+鸣谢
 ***************
 
 The CodeIgniter team would like to thank EllisLab, all the
